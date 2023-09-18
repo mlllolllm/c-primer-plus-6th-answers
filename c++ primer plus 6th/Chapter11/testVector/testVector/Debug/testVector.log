@@ -1,0 +1,4 @@
+﻿  rankwalk.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\testvector\testvector\rankwalk.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  testVector.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\testVector\Debug\testVector.exe
+  testVector.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\testVector\Debug\testVector.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter9\2\2\source.cpp(14): warning C4101: 'next': unreferenced local variable
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter9\2\2\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  2.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter9\2\Debug\2.exe
+  2.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter9\2\Debug\2.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter6\7\7\source.cpp(52): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  7.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter6\7\Debug\7.exe
+  7.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter6\7\Debug\7.pdb (Partial PDB)

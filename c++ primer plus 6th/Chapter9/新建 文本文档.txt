@@ -1,0 +1,36 @@
+局部变量
+全局变量
+内部链接
+全局变量
+
+声明的内容不可以存在同名。编译指令的作用域不为局部。
+
+#include<iostrea
+int main(){
+double x;
+std::cout<<"Enter value:";
+while(!(std::cin>>x)){
+std::cout<<"Bad input.Please enter a nuber:";
+std::cin.clear();
+while(std::cin.get()!='\n')
+continue;
+}
+std::cout<<"Value="<<x<<std::endl;
+return 0;
+}
+
+在头文件中声明
+其中一个文件定义函数重载
+
+10
+4
+0
+10，1
+10，-4
+
+1
+4，1，2
+2
+2
+4，1，2
+2

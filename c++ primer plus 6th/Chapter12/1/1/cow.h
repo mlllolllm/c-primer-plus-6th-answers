@@ -1,0 +1,18 @@
+#pragma once
+#define _CRT_SECURE_NO_WARNINGS
+#include<iostream>
+using namespace std;
+class Cow {
+private:
+	char name[20];
+	char * hobby;
+	double weight;
+public:
+	Cow();
+	Cow(const char * nm, const char * ho, double wt);
+	Cow(const Cow &);
+	~Cow();
+	Cow & operator=( const Cow & c);
+	void ShowCow()const;
+
+};

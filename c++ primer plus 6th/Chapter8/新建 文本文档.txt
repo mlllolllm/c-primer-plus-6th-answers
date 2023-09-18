@@ -1,0 +1,7 @@
+template<> box chooseBig<box>(box a,box b)
+
+float
+float &
+float &
+int
+double

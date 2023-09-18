@@ -1,0 +1,24 @@
+无法通过添加字符串或者对象的方式来进行赋值。调用时可能会出现隐式调用的情况
+不知道*3
+
+析构函数没有delete  加delete
+delete格式不对应      注意格式
+不同析构对应的格式不对应    统一格式
+
+
+默认构造函数
+默认析构函数
+默认赋值函数
+默认复制函数
+
+用char【】来定义数组（？）
+没析构
+
+Golfer()
+Golfer(const char * name,int g=0)
+Golfer(const char * name,int g=0)
+Golfer()
+Golfer(const Golfer & g)
+隐式调用，然后Golfer(const char * name,int g=0)
+指针指向，不调用
+隐式调用，然后Golfer(const char * name,int g=0)

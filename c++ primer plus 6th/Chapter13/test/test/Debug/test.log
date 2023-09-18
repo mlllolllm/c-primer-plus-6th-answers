@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Header.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\test\test\header.cpp(3): error C2438: 'a': cannot initialize static class data via constructor
+  Generating Code...

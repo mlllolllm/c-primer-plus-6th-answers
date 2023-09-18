@@ -1,0 +1,16 @@
+适应不同场景下的不同需求
+short a = 80;
+unsigned int = 42110;
+long long c = 3e10;
+
+不会
+一个默认long，一个默认int
+一个是字面数字，一个是字符表示，等价
+static_cast<char> num;  cout<<num;不会
+不会出错，不会出错
+
+74 4 0 4.5 3
+
+int a = x2+x2;  int b = (double)x1+(double)x2;
+
+int float char char32_t float

@@ -1,0 +1,35 @@
+一种用来封装数据和方法的功能集合
+
+使用关键字private
+
+类创建对象
+对象可以使用类的定义和方法
+
+函数成员可以调用数据成员
+函数成员存在构造和析构函数
+
+classCount{
+private:
+string name;
+string account;
+double savings;
+public:
+classCount();
+showCount()const;
+addCount();
+withdrawCount();
+}
+
+类被创建时。类对象被销毁时。
+
+classCount::classCount(){
+name="";
+account="";
+savings=0;
+}
+
+不定义构造函数，编译器将地宫默认构造函数。可以将对象初始化
+
+
+
+地址。对象。

@@ -1,0 +1,26 @@
+Stonewt Stonewt::operator*(double a)const {
+	Stonewt temp;
+	temp.pounds = pounds*a + (int)((pds_left*a) / 14);
+	temp.pds_left = pds_left*a - (int)((pds_left*a) / 14) * 14;
+	return temp;
+}
+
+需要添加关键字friend
+
+是的
+
+sizeof
+.
+.*
+::
+?:
+typeid
+const_cast
+dynamic_cast
+reinterpret_cast
+
+重载运算符一定要在类中进行重载
+
+operator double()const;
+Vector::operator double(){
+retuen mag}

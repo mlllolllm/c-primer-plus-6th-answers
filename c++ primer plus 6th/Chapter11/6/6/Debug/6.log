@@ -1,0 +1,7 @@
+﻿  stone.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\6\6\stone.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\6\6\stone.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\6\6\stone.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\6\6\stone.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  6.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\6\Debug\6.exe
+  6.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\6\Debug\6.pdb (Partial PDB)

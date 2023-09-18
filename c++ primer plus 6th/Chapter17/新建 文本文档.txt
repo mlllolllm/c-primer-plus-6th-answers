@@ -1,0 +1,38 @@
+提供方法进行输入输出
+
+因为程序要将程序作为121三个数字进行输出
+
+标准输出在缓冲区里，在刷新时输出
+标准错误有两种，cerr直接输出给默认设备，clog被放入缓冲区
+
+因为他重载了<<
+
+<<重载时返回的时ostream&
+
+int n;
+cout<<dec<<cout.width(15)<<n<<
+oct<<cout.width(15)<<n<<
+hex<<cout.width(15)<<n;
+
+cout<<
+string name;
+getline(cin,name);
+cout<<
+int wages;
+cin>>wages;
+cout<<
+int hours;
+cin>>hours;
+cout<<
+cout.width()<<name<<":$"<<setw()<<fixed<<setprecision(2)<<":"<<wages<<setw()<<setprecision(1)<<hours;
+cout<<
+cout<<setw()<<left<<":$"<<fixed<<setprecision(2)<<setw()<<left<<wages<<":"<<setprecision(1)<<setw()<<hours;
+
+ct1=5;ct2=9
+
+
+前一条没有上限，后一条最多80；
+
+
+
+

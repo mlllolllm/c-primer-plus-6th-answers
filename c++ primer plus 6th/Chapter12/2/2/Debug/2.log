@@ -1,0 +1,4 @@
+﻿  string2.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter12\2\2\string2.cpp(99): warning C4172: returning address of local variable or temporary: temp
+  2.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter12\2\Debug\2.exe
+  2.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter12\2\Debug\2.pdb (Partial PDB)

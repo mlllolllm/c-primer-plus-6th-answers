@@ -1,0 +1,4 @@
+﻿  hangman.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter16\hangman\hangman\hangman.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hangman.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter16\hangman\Debug\hangman.exe
+  hangman.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter16\hangman\Debug\hangman.pdb (Partial PDB)

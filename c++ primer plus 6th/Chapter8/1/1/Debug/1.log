@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter8\1\1\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter8\1\1\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  1.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter8\1\Debug\1.exe
+  1.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter8\1\Debug\1.pdb (Partial PDB)

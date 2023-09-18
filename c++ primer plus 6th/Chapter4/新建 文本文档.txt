@@ -1,0 +1,59 @@
+1.
+char actor[30];
+short betsie[100];
+float chuck[13];
+long double dipsea[64];
+2.
+array<char,30> actor;
+array<short,100> betsie;
+array<float,13> chuck;
+array<long double,64> dipsea;
+3.
+int num[5];
+for(int i=0;i<5;i++){
+num[i]=2i+1;
+}
+4.
+int even = num[0]+num[4];
+5.
+cout<<ideas[1]<<endl;
+6.
+char arr[] = "cheeseburger";
+7.
+string arr = "Waldorf Salad";
+8.
+struct fish{
+char species[20];
+int weight;
+double length;
+}
+9.
+fish Lu = {“鲈鱼",1,2};
+10.
+enum Response{ Yes = 1,No = 0,Maybe = 2};
+11.
+double * dted = &ted;
+cout<<*dted<<endl;
+12.
+float * ft = treacle;
+cout<<ft[0]<<endl;
+cout<<ft[sizeof(treacle)/sizeof(float)-1]<<endl;
+13.
+int count;
+cin>>count;
+int * arr = new int[count];
+?
+14.
+有效
+该字符串的首地址
+15.
+fish * f = new fish[20];
+cout<<(*(f+1))->weight;
+16.
+如果地址空格则无法完整读入
+若字符超过80可能发生错误
+17.
+const int num = 10;
+vector<string,num> vt;
+array<string,num> at;
+需要使用array，vector，string类

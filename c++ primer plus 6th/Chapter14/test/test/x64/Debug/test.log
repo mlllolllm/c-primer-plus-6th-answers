@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter14\test\test\source.cpp(9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter14\test\test\source.cpp(10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter14\test\test\source.cpp(32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter14\test\x64\Debug\test.exe
+  test.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter14\test\x64\Debug\test.pdb (Partial PDB)

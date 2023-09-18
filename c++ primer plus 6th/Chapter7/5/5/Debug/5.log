@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter7\5\5\source.cpp(16): warning C4244: '*=': conversion from '__int64' to 'int', possible loss of data
+  5.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter7\5\Debug\5.exe
+  5.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter7\5\Debug\5.pdb (Partial PDB)

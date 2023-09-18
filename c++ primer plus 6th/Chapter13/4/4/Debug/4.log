@@ -1,0 +1,36 @@
+﻿  Source.cpp
+  port.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(3): error C2572: 'Port::Port': redefinition of default argument: parameter 1
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(14): note: see declaration of 'Port::Port'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(3): error C2572: 'Port::Port': redefinition of default argument: parameter 2
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(14): note: see declaration of 'Port::Port'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(3): error C2572: 'Port::Port': redefinition of default argument: parameter 3
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(14): note: see declaration of 'Port::Port'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(23): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(49): error C2572: 'VintagePort::VintagePort': redefinition of default argument: parameter 1
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(37): note: see declaration of 'VintagePort::VintagePort'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(49): error C2572: 'VintagePort::VintagePort': redefinition of default argument: parameter 2
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(37): note: see declaration of 'VintagePort::VintagePort'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(49): error C2572: 'VintagePort::VintagePort': redefinition of default argument: parameter 3
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(37): note: see declaration of 'VintagePort::VintagePort'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(49): error C2572: 'VintagePort::VintagePort': redefinition of default argument: parameter 4
+  c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.h(37): note: see declaration of 'VintagePort::VintagePort'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(49): error C2065: 'st': undeclared identifier
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(51): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(58): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter13\4\4\port.cpp(69): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...

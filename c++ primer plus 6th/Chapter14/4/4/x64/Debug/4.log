@@ -1,0 +1,5 @@
+﻿  Person.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter14\4\4\person.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter14\4\4\person.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  4.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter14\4\x64\Debug\4.exe
+  4.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter14\4\x64\Debug\4.pdb (Partial PDB)

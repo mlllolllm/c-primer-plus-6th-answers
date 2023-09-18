@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter3\test\1\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  1.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter3\test\Debug\1.exe
+  1.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter3\test\Debug\1.pdb (Partial PDB)

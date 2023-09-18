@@ -1,0 +1,7 @@
+﻿  Stack.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter10\5\5\stack.cpp(26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+Stack.obj : error LNK2005: "public: __thiscall Stack::Stack(void)" (??0Stack@@QAE@XZ) already defined in Source.obj
+Stack.obj : error LNK2005: "public: __thiscall Stack::~Stack(void)" (??1Stack@@QAE@XZ) already defined in Source.obj
+C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter10\5\Debug\5.exe : fatal error LNK1169: one or more multiply defined symbols found

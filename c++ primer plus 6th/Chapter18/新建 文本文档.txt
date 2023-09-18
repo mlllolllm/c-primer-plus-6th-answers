@@ -1,0 +1,27 @@
+不是这ar搁哪儿呢
+
+//r1(w+1)不可以对w的值做修改
+//r1(up(w))猜的，感觉不能用const解释对应的右值
+很有意思
+
+a.
+double 
+const double 
+const double
+b.
+double &
+double &&
+double &&
+c.
+double &
+double &&
+double &&
+
+构造函数，复制构造函数，复制赋值运算符，析构函数，移动构造函数，移动赋值运算符
+定义构造函数或复制构造函数或复制赋值运算符将不会生成移动构造函数与移动赋值运算符。定义了移动构造函数或移动赋值运算符将不会生成上面三者
+
+因为他不是动态分配内存。改为double * bubbles
+
+show2(18.0,[](double x){return 1.8*x+32;};
+
+sum(temp_c,[&total](double w){return total+=w;});

@@ -1,0 +1,6 @@
+﻿  stonewt1.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\teststonewt\teststonewt\stonewt1.cpp(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  testStonewt.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\testStonewt\Debug\testStonewt.exe
+  testStonewt.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\testStonewt\Debug\testStonewt.pdb (Partial PDB)

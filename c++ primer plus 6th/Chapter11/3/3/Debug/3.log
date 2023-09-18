@@ -1,0 +1,5 @@
+﻿  rankwalk.cpp
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\3\3\rankwalk.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ prime plus 6th\chapter11\3\3\rankwalk.cpp(37): warning C4018: '>': signed/unsigned mismatch
+  3.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\3\Debug\3.exe
+  3.vcxproj -> C:\Users\82329\Desktop\C++ Study\C++ Prime Plus 6th\Chapter11\3\Debug\3.pdb (Partial PDB)

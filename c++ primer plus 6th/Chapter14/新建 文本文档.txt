@@ -1,0 +1,31 @@
+公有
+私有
+公有
+公有
+公有 私有？
+
+第二题在这 我看了答案
+
+:glip(g),Frabjous(s){}
+:glip(g),fab(f)
+
+class Stack
+{
+private:
+enum{MAX=10};
+sw items[MAX];
+int top;
+public:
+Stack();
+bool isempty();
+bool isfull();
+bool push(const sw);
+bool pop(Type & item);
+};
+
+Array<string> stringAr;
+Stack<double> doubleSt;
+Array<Stack<Worker *>> workerAr;
+
+虚基类可以用于MI对象模型，当从多个子类继承时只会产生一个虚基类对象，当使用初始化构造列表时需要使用虚基类构造
+非虚基类再出现MI情况时会建立多个对象，需要注意区分

@@ -1,0 +1,5 @@
+﻿  bank.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter16\6\6\bank.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter16\6\6\bank.cpp(55): warning C4018: '>=': signed/unsigned mismatch
+  6.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter16\6\Debug\6.exe
+  6.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter16\6\Debug\6.pdb (Partial PDB)

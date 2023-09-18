@@ -1,0 +1,29 @@
+RQ & operator=(const RQ & rq)
+
+复制时使用=
+连接时使用+
+自动分配内存
+
+string & toupper_string(string & s){
+for(char c:s){
+s[i]=s[i].toupper();}
+return s;
+}
+
+第四个
+
+什么玩意儿
+
+因为键和值相同
+
+使用别的迭代器可以简化效率
+
+不知道
+
+可以使用find，sort等内置方法
+可以自动分配内存
+可以用于不同的对象
+
+我怎么感觉都合法
+
+创建一个15*10的int类型的toobig，判断youd

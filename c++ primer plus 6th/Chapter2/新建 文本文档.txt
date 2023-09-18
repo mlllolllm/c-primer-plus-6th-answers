@@ -1,0 +1,17 @@
+类
+引入iostream库
+使用命名空间std
+cout<<"Hello, world"<<endl;
+int cheeses;
+cheeses=32;
+cin>>cheeses;
+cout<<"We Have "<<cheeses<<"varieties of cheese,";
+
+froop:返回int，需传入参数类型为double
+以下两个同理
+
+返回类型为void
+
+未引入iostream库
+在函数中，函数头部引入库，还有一个不知道
+

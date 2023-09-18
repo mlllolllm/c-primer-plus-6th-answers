@@ -1,0 +1,59 @@
+构造函数，定义函数，调用
+
+void igor()
+float tofu(int)
+double mpg(double,double)
+long summation(long [],int)
+double(const string)
+void ofcourse(boss)
+char * plot(map *)
+
+void transInt(int array[],int n,int a){
+for(int i=0;i<n;i++){
+array[i]=a;}
+}
+
+double max(const double arr[],int n){
+double a=0;
+for(int i=0;i<n;i++){
+if(arr[i]>a) a=arr[i];
+}
+return a;}
+
+本来传入的就是形参，不存在修改问题
+
+char a[20]
+char a[]=""
+char * a
+
+int replace(char *str,char c1,char c2){
+int j=0;
+for(int i=0;i<strlen(str);i++){
+if(str[i]==c1){
+str[i]==c2
+j++;}
+}
+return j;}
+
+"p"
+"c"
+
+按值传递思路更清晰更便于操作
+按地址传递使用内存更小
+
+int judge(int (*p1)(const char*));
+
+void showAppV(applicant app){
+cout<<app.name<<" "<<app.credit_ratings<<endl;
+}
+void showApp(applicant * app){
+cout<<app->name<<" "<<app->credit_ratings<<endl;
+}
+
+
+void (*p1)(applicant *a);
+const char * (*p2）(const applicant *a1,const applicant * a2);
+p1=f1;
+p2=f2;
+int ap = *p1[5];
+int * pa=

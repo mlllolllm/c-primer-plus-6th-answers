@@ -1,0 +1,4 @@
+0 shao zhengjiang student
+1 wang guanshi student 10
+3 cao xiaoming teacher 10 6
+0 a a a

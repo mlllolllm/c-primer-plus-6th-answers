@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\82329\desktop\c++ study\c++ primer plus 6th\chapter16\3\3\source.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  3.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter16\3\Debug\3.exe
+  3.vcxproj -> C:\Users\82329\Desktop\C++ Study\c++ primer plus 6th\Chapter16\3\Debug\3.pdb (Partial PDB)
